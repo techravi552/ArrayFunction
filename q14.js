@@ -19,4 +19,6 @@ array[1] = "second work"
 
 array[0] = "first work"
 
+array[array.length-1] = "Lunch"
+
 console.log(array)
